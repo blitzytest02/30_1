@@ -14,9 +14,14 @@ A simple Express.js tutorial server demonstrating basic routing and endpoint cre
    ```
 
 ## Usage
-Start the server:
+Start the server using either of these commands:
 ```bash
 npm start
+```
+
+Or:
+```bash
+node server.js
 ```
 
 The server will run on http://localhost:3000
